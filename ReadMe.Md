@@ -15,7 +15,7 @@ Perfect for servers or players looking to boost FPS by tweaking shadow, lighting
 
 ## ⚙️ How It Works
 
-This client-side script hooks into FiveM’s native functions to alter rendering parameters such as shadows, flashlight distance, entity alpha, and more, based on your selected preset. It also periodically clears certain effects and disables unnecessary visual features to maximize FPS gain.
+This client-side script hooks into FiveM’s native functions to alter rendering parameters such as shadows, flashlight distance, entity alpha, and more, based on your selected preset. It also periodically clears certain effects and disables unnecessary visual features to maximize FPS gain. It Will Also Auto Opti The Server Without Any FPS commands Off Bat
 
 Using the `/fps` command opens a menu where you select your preferred performance profile. Changes are applied instantly and can be reset anytime.
 
