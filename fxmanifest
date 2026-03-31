@@ -1,0 +1,12 @@
+shared_script '@WaveShield/resource/include.lua'
+
+fx_version 'cerulean'
+game 'gta5'
+
+author 'Qair'
+description 'FPS Optimizer'
+version '1.0.0'
+
+client_scripts {
+    'client.lua',
+}
